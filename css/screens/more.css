@@ -1,0 +1,26 @@
+.user-component__subtitle span {
+  width: 16px;
+  height: 16px;
+  border: 1px solid rgba(255, 0, 0, 1);
+  border-radius: 8px;
+  font-size: 14px;
+  color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 6px;
+}
+
+.more-screen .icon-row {
+  margin-top: 40px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 40px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 30px;
+}
