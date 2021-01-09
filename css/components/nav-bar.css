@@ -23,17 +23,3 @@
   left: 15px;
   bottom: 15px;
 }
-
-.nav__update {
-  background-color: tomato;
-  width: 6px;
-  height: 6px;
-  display: block;
-  border-radius: 3px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: absolute;
-  right: -6px;
-  top: -10px;
-}
