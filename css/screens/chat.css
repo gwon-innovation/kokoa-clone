@@ -11,8 +11,9 @@
   background-color: #abc1d1;
 }
 
-#chat-screen .staus-bar {
+#chat-screen .status-bar {
   z-index: 2;
+  background-color: #abc1d1;
 }
 #chat-screen .alt-header {
   top: 4px;
