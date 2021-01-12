@@ -10,13 +10,14 @@
 @import "components/top-right-dot.css";
 @import "components/icon-row.css";
 @import "components/alt-screen-header.css";
-@import "components/settings.css";
 
 /* Screens */
 @import "screens/login.css";
 @import "screens/friends.css";
 @import "screens/find.css";
 @import "screens/more.css";
+@import "screens/chat.css";
+@import "screens/settings.css";
 
 body {
   /*
